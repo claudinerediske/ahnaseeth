@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maibawaifa.snail-hh.com/sitemap.xml
